@@ -1,4 +1,4 @@
-# Elecshop - eCommerce app w/ Next.js, Nest.js and MongoDB
+# Electronic Products E-Shop - Next.js, Nest.js and MongoDB
 
 ![Elecshop preview image](./client/public/design/preview.png)
 
@@ -34,7 +34,7 @@ Here was the challenge:
 Clone the project
 
 ```bash
-git clone https://github.com/NightClover-code/modern-ecommerce.git
+git clone https://github.com/smartstandard/ecommerce_next.js_nest.js_mongodb.git
 ```
 
 Go to the project directory
@@ -102,12 +102,5 @@ yarn dev
  - Server deployed on [Railway](https://railway.app/)
  
  
-## Inspiration & credits ☄️
- - [@bradtraversy](https://www.youtube.com/@TraversyMedia) - Project Idea
- - [@satnaing](https://github.com/satnaing) - README format
-
-## Author
-- [@achrafdev](https://achrafdev.com)
-
 **Thanks for sharing** 🚀
 
